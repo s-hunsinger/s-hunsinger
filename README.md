@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Simon! @s-hunsinger
-- 👀 I’m interested in exploring different programming languages.
-- 🌱 I’m currently learning Racket and functional programming.
+- 🌱 I’m currently learning functional programming and programming abstractions with Racket.
 - 📫 Reach me at shunsing@oberlin.edu
 
 
